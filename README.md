@@ -38,3 +38,9 @@ Tensor flow is designed to function in two main deep neural networks:
 **Keras & TensorFlow** 
 Keras is compact, easy to learn, high-level Python library run on top of TensorFlow framework. It is made with focus of understanding deep learning techniques, such as creating layers for neural networks maintaining the concepts of shapes and mathematical details. 
 
+**Tensor Flow Playground**
+The best way to understand a Neural Network (and how TensorFlow operates on a NN) is throught *Visualization*.  The Neural Network Playground allows anyone to experiment with four datasets, and to create the entire NN model, then visually watch Tensor Flow converge on a solution. 
+LINK HERE https://playground.tensorflow.org
+
+
+

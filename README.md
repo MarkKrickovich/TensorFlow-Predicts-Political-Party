@@ -14,7 +14,7 @@ I completed a machine-learning project to predict the political party of US Cong
 
 
 ### Model
-Initially, I set Keras to use a Sequential model flow to allow for simple layer-building of four layers; Dense embedding layer (each neuron in the dense layer receives input from all neurons in the previous layer), Dropout (a filter applied to specific layers that prevents overfitting); relu (hidden layers) and sigmoid (last layer) activation functions, binary-crossentropy loss function, and the adam optimizer (final layer). I used the scikit-learn Python library to make cross-validation easier.<br>
+Through experimentation I set Keras to use a Sequential model flow to allow for simple layer-building of five layers; Dense embedding layer, two hidden Dropout layers, an output layer with a binary-classification sigmoid function, and the final compilation layer. I used the scikit-learn Python library to make cross-validation easier.  *Relu* is used as the activiation function in the first three layers; and *sigmoid* as the activiation function in the output layer (because the output is a binary classification).  The loss-function in the compilation layer is *binary cross-entropy* and *adam* is used as the optimizer in this layer.  I wrapped the keras classifier in scikit-learn.<br>
 **Below: Python Code for Model Layers and Settings:**
 <p float="left">
  <img src="Images/PartyCode.png" width="600" />

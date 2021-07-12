@@ -40,7 +40,7 @@ Keras is compact, easy to learn, high-level Python library run on top of TensorF
 
 **Tensors & Graphs**<br>
 The core component of TensorFlow is the compuational graph and Tensors which traverse among all the nodes through what is called *edges*.
-Mathematically, a Tensor is a N-dimensional vector, meaning it can be used to represent N-dimensional datasets.<br>
+Mathematically, a Tensor is a N-dimensional vector, meaning it can be used to represent N-dimensional datasets.  The **flow** refers to a computational graph, and each computation in TensorFlow is represented as a Data Flow Graph.  Each node in the graph represents a mathematical operation like addition, subtraction etc. And each operation results in the formation of new Tensor.<br>
 **Below: Tensors Rank & Dimension** and **Computational Graph (Flow)**
 <p float="left">
   <img src="Images/tensorranks.png" width="400" />
@@ -48,7 +48,9 @@ Mathematically, a Tensor is a N-dimensional vector, meaning it can be used to re
 </p>
 
 **Tensor Flow Playground**
-The best way to understand a Neural Network (and how TensorFlow operates on a NN) is throught *Visualization*.  The Neural Network Playground allows anyone to experiment with four datasets, and to create the entire NN model, then visually watch Tensor Flow converge on a solution. 
+The best way to understand a Neural Network (and how TensorFlow operates on a NN) is throught *Visualization*.  The Neural Network Playground allows anyone to experiment with four datasets, and to create the entire NN model, then visually watch Tensor Flow converge on a solution.
+
+
 LINK HERE https://playground.tensorflow.org
 <p float="left">
  <img src="Images/TFPlaygound.png" width="600" />

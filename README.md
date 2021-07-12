@@ -50,8 +50,7 @@ Mathematically, a Tensor is a N-dimensional vector, meaning it can be used to re
 **Tensor Flow Playground**
 The best way to understand a Neural Network (and how TensorFlow operates on a NN) is throught *Visualization*.  The Neural Network Playground allows anyone to experiment with four datasets, and to create the entire NN model, then visually watch Tensor Flow converge on a solution.
 
-
-LINK HERE https://playground.tensorflow.org
+TRY IT: https://playground.tensorflow.org
 <p float="left">
  <img src="Images/TFPlaygound.png" width="600" />
 </p>

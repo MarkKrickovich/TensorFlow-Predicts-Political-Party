@@ -35,5 +35,6 @@ Tensor flow is designed to function in two main deep neural networks:
 1. Convolutional Neural Network, and
 2. Recurrent Neural Network
 
-**Keras** Keras is compact, easy to learn, high-level Python library run on top of TensorFlow framework. It is made with focus of understanding deep learning techniques, such as creating layers for neural networks maintaining the concepts of shapes and mathematical details. 
+**Keras & TensorFlow** 
+Keras is compact, easy to learn, high-level Python library run on top of TensorFlow framework. It is made with focus of understanding deep learning techniques, such as creating layers for neural networks maintaining the concepts of shapes and mathematical details. 
 

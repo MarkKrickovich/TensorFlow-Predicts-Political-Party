@@ -41,6 +41,9 @@ Keras is compact, easy to learn, high-level Python library run on top of TensorF
 **Tensor Flow Playground**
 The best way to understand a Neural Network (and how TensorFlow operates on a NN) is throught *Visualization*.  The Neural Network Playground allows anyone to experiment with four datasets, and to create the entire NN model, then visually watch Tensor Flow converge on a solution. 
 LINK HERE https://playground.tensorflow.org
+<p float="left">
+ <img src="Images/TFplayground.png" width="175" />
+</p>
 
 
 

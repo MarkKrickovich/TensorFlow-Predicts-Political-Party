@@ -26,7 +26,7 @@ My experimentation with Keras settings improved the model’s accuracy from 94% 
 ### Additional Learning Topics
 
 
-### About TensorFlow
+## About TensorFlow
 TensorFlow is an open-source library for machine learning, specifically focused on training and inference of deep neural networks; it is perfectly aligned with working in the *Deep Learning* space.  Keras is an API built on top of Tensor Flow 2.0.  Keras minimizes the number of user-actions required for use cases and enables fast experimentation.  TensorFlow is often used to train neural networks (NN), to build recommender systems, and to train generative advesarial networs (GANNs).  TensorFlow can train and run deep neural networks for handwritten digit classification, image recognition, word embedding and creation of various sequence models.<br>
 The base unit, the *Tensor* is a multi-dimensional array of data. In math, tensors are described as geometric objects that describe linear relationships between other geometric objects. More formally, Tensorflow is a symbolic math library based on dataflow and differentiable programming.<br>
 TensorFlow Models are very *computationally expensive*, often requiring the use of a GPU or - even better than a GPU - a *tensor processing unit (TPU)*. Tensors are identified by the following three parameters: *Rank, Shape* and *Type*.<br>
@@ -46,6 +46,8 @@ Mathematically, a **Tensor** is a N-dimensional vector, meaning it can be used t
   <img src="Images/tensorranks.png" width="400" />
   <img src="Images/flow.png" width="350" />
 </p>
+<br>
+<br>
 
 **Tensor Flow Playground**
 The best way to understand a Neural Network (and how TensorFlow operates on a NN) is throught *Visualization*.  The Neural Network Playground allows anyone to experiment with four datasets, and to create the entire NN model, then visually watch Tensor Flow converge on a solution.

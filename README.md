@@ -41,10 +41,10 @@ Keras is compact, easy to learn, high-level Python library run on top of TensorF
 **Tensors & Graphs**<br>
 The core component of TensorFlow is the compuational graph and Tensors which traverse among all the nodes through what is called *edges*.
 Mathematically, a Tensor is a N-dimensional vector, meaning it can be used to represent N-dimensional datasets.<br>
-**Below: Tensors of various dimensions**
+**Below: Tensors of various dimensions** and **Computational Graph (Flow)
 <p float="left">
- <img src="Images/tensor.png" width="200" />
- <img src="Images/tensor.png" width="200" />
+  <img src="Images/tensorranks.png" width="400" />
+  <img src="Images/flow.png" width="200" />
 </p>
 
 **Tensor Flow Playground**

@@ -1,5 +1,9 @@
 # TensorFlow: Predicting Political Party
 ## [Recurrent Neural Network using Python, TensorFlow & Keras]
+<p float="left">
+ <img src="Images/TFlow.png" width="175" />
+</p>
+
 I completed a machine-learning project to predict the political party of US Congress-members based on their voting record on 17-issues in the year 1984. Using the TensorFlow library and the keras API, we can predict the political party of a US congress-member with 95% accuracy. The project was kept small (232, 17) to limit computing expense; larger data sets would require the use of GPU’s and distributed training.
 
 ## Overview

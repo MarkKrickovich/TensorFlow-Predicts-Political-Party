@@ -35,15 +35,16 @@ Tensor flow is designed to function in two main deep neural networks:
 1. Convolutional Neural Network, and
 2. Recurrent Neural Network
 
-**Keras & TensorFlow** 
+**Keras & TensorFlow** <br>
 Keras is compact, easy to learn, high-level Python library run on top of TensorFlow framework. It is made with focus of understanding deep learning techniques, such as creating layers for neural networks maintaining the concepts of shapes and mathematical details. 
 
-**Tensors & Graphs**
+**Tensors & Graphs**<br>
 The core component of TensorFlow is the compuational graph and Tensors which traverse among all the nodes through what is called *edges*.
 Mathematically, a Tensor is a N-dimensional vector, meaning it can be used to represent N-dimensional datasets.<br>
-Image Below: Tensors of various dimensions
+**Below: Tensors of various dimensions**
 <p float="left">
- <img src="Images/tensor.png" width="300" />
+ <img src="Images/tensor.png" width="200" />
+ <img src="Images/tensor.png" width="200" />
 </p>
 
 **Tensor Flow Playground**

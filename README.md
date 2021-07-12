@@ -4,11 +4,11 @@
  <img src="Images/TFlow.png" width="175" />
 </p>
 
-I completed a machine-learning project to predict the political party of US Congress-members based on their voting record on 17-issues in the year 1984. Using the TensorFlow library and the keras API, we can predict the political party of a US congress-member with 95% accuracy. The project was kept small (232, 17) to limit computing expense; larger data sets would require the use of GPU’s and distributed training.
+I completed a machine-learning project to predict the political party of US Congress-members based on their voting record on 17-issues in the year 1984. Using the TensorFlow library and the keras API, we can predict the political party of a US congress-member with 95% accuracy. 
 
 ## Overview
 ### Dataset
-
+The data is from ... The project was kept small (232, 17) to limit computing expense; larger data sets would require the use of GPU’s and distributed training.
 
 ### The Magic
 
@@ -24,7 +24,9 @@ Through experimentation I set Keras to use a Sequential model flow to allow for 
 My experimentation with Keras settings improved the model’s accuracy from 94% to 95%.
 
 ### Additional Learning Topics
-
+1. Explore TensorFlow settings (hyper-parameter tuning)
+2. Use larger datasets on cloud server resources - big data use of TensorFlow
+3. Consider transitioning to PyTorch
 
 ## About TensorFlow
 TensorFlow is an open-source library for machine learning, specifically focused on training and inference of deep neural networks; it is perfectly aligned with working in the *Deep Learning* space.  Keras is an API built on top of Tensor Flow 2.0.  Keras minimizes the number of user-actions required for use cases and enables fast experimentation.  TensorFlow is often used to train neural networks (NN), to build recommender systems, and to train generative advesarial networs (GANNs).  TensorFlow can train and run deep neural networks for handwritten digit classification, image recognition, word embedding and creation of various sequence models.<br>
